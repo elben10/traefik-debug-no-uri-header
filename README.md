@@ -11,3 +11,7 @@
     1. export `DOMAIN=<INSERT DOMAIN>` 
     1. export `STACK_NAME=a-stack`
 1. docker stack deploy -c docker-compose.yml test-datamaga-com
+
+# Credits 
+
+This project is based on https://github.com/tiangolo/full-stack-fastapi-postgresql and dockerswarm.rocks
