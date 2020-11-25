@@ -10,7 +10,7 @@
     1. export `TRAEFIK_PUBLIC_NETWORK=traefik-public` 
     1. export `DOMAIN=<INSERT DOMAIN>` 
     1. export `STACK_NAME=a-stack`
-1. docker stack deploy -c docker-compose.yml test-datamaga-com
+1. docker stack deploy -c docker-compose.yml a-stack
 
 # Credits 
 
